@@ -8,6 +8,8 @@
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+---
+
 <img src="https://wakatime.com/share/@9b88459c-5003-48d6-b195-c9263225a6c9/a203e765-18ed-465f-90af-a212fc788065.svg"/>
 
 <a href="https://heatmap.shymike.dev?id=22846&timezone=Europe%2FBerlin&standalone=true" title="Click to view detailed data for each day!">
