@@ -12,9 +12,11 @@
 <details>
   <summary>My Languages</summary><br/>
   <div align = "center">
-    <div style="
+    <img src="https://wakatime.com/share/@9b88459c-5003-48d6-b195-c9263225a6c9/a203e765-18ed-465f-90af-a212fc788065.svg" height = "300" />
+  </div>
+</details>
+
 <div align="center">
-  <p>Made with ❤️</p>
+  <p>It's not a Bug: It's a feature!</p>
 </div>
 
-src="https://wakatime.com/share/@9b88459c-5003-48d6-b195-c9263225a6c9/a203e765-18ed-465f-90af-a212fc788065.svg"
