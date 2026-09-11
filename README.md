@@ -12,7 +12,7 @@
 </details>
 
 <details>
-  <summary>My Wakatime Stats:</summary>
+  <summary> My Wakatime Stats:</summary>
     <br />
     <div align = "center">
       &nbsp;
